@@ -25,12 +25,12 @@ export const quinceMainData = {
       groom: "Edgar Hernández",
     },
     brideParents: {
-      father: "Andres Martínez",
-      mother: "Maria de Jesús Sanchez",
+      father: "Wenceslao Fuentes Barrera",
+      mother: "Concepción Cruz Fuentes",
     },
     groomParents: {
-      father: "Juan Hernández",
-      mother: "Ma. Asunción Jiménez",
+      father: "Roberto Quirino Flores",
+      mother: "María Magdalena Tolentino Tolentino",
     },
     //Papás Andres Martínez y Maria de Jesús Sanchez
     parents: {
